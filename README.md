@@ -12,7 +12,7 @@ Desafio do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketsea
 
 ## 🖥 Live Preview
 
-Live Preview [RocketPortfolio](https://rafaelribeiro-dev.github.io/rocketportfolio/)
+Live Preview [RocketPortfolio](https://rafaelribeiro-dev.github.io/rocketportfolio)
 
 ## 🚀 Tecnologias
 
