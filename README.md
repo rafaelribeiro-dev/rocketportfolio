@@ -1,16 +1,16 @@
 <h1 align="center">
- Desafio Portfolio - Rocketseat
+ 🛡 Desafio Portfolio - Rocketseat
 </h1>
 
 <br>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](https://github.com/rafaelribeiro-dev/rocketportfolio/blob/main/assets/cover.png)
 
 ## 📝 Descrição
 
 Desafio do curso [Discover](https://app.rocketseat.com.br/discover) da Rocketseat. </br></br>
 
-## Live Preview
+## 🖥 Live Preview
 
 Live Preview [RocketCoffee](https://rafaelribeiro-dev.github.io/rocketportfolio/)
 
@@ -22,3 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ---
+
+Feito com 💜 por Rafael Ribeiro
